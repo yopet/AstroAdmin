@@ -1,0 +1,32 @@
+{
+    "pilotos": [{
+            "nombre": "Juan Jose Perez",
+            "rango": "piloto"
+        },
+        {
+            "nombre": "Pedro Pablo Perez",
+            "rango": "piloto"
+        },
+        {
+            "nombre": "Juan Jose Perez 1",
+            "rango": "piloto"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 1",
+            "rango": "co-piloto"
+        },
+        {
+            "nombre": "Juan Jose Perez 2",
+            "rango": "piloto"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 2",
+            "rango": "piloto"
+        }
+
+    ],
+    "columns": [
+        { "name": "Nombre" },
+        { "name": "Rango" }
+    ]
+}

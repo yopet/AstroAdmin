@@ -1,0 +1,16 @@
+{
+    "roles": [{
+            "nombre": "Rol 1",
+            "descripcion": "Administrador"
+        },
+        {
+            "nombre": "Rol 2",
+            "descripcion": "Consulta"
+        }
+
+    ],
+    "columns": [
+        { "name": "Nombre" },
+        { "name": "Descripcion" }
+    ]
+}

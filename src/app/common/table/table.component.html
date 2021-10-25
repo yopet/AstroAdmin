@@ -1,0 +1,19 @@
+<ion-card>
+    <ion-card-header>
+
+        <ion-button [hidden]="!buttons[0]">
+            <ion-icon slot="start" name="add"></ion-icon>
+            Agregar
+        </ion-button>
+        <ion-button [hidden]="!buttons[1]">
+            <ion-icon slot="start" name="create"></ion-icon>
+            Editar
+        </ion-button>
+        <ion-button color="danger" [hidden]="!buttons[2]" (click)="Eliminar()">
+            <ion-icon slot="start" name="remove"></ion-icon>
+            Eliminar
+        </ion-button>
+    </ion-card-header>
+    <ngx-datatable class="bootstrap" [limit]="8" [rows]="rows" [rowHeight]="50" [columns]="columns" [columnMode]="'force'" [sortType]="'multi'" [headerHeight]="50" [footerHeight]="50" [selected]="selected" [selectionType]="'single'" (select)="onSelect($event)">
+    </ngx-datatable>
+</ion-card>

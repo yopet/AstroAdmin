@@ -1,0 +1,16 @@
+{
+    "perfiles": [{
+            "nombre": "Perfil 1",
+            "descripcion": "Administrador"
+        },
+        {
+            "nombre": "Perfil 2",
+            "descripcion": "Consulta"
+        }
+
+    ],
+    "columns": [
+        { "name": "Nombre" },
+        { "name": "Descripcion" }
+    ]
+}

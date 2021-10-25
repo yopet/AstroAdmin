@@ -1,0 +1,38 @@
+{
+    "Pages": [{
+            "title": "Roles",
+            "url": "/rol",
+            "icon": "people-circle"
+        },
+        {
+            "title": "Perfiles",
+            "url": "/perfil",
+            "icon": "people"
+        },
+        {
+            "title": "Usuarios",
+            "url": "/usuario",
+            "icon": "person"
+        },
+        {
+            "title": "Pilotos",
+            "url": "/piloto",
+            "icon": "man"
+        },
+        {
+            "title": "Pasajeros",
+            "url": "/pasajero",
+            "icon": "accessibility"
+        },
+        {
+            "title": "Viajes",
+            "url": "/viaje",
+            "icon": "airplane"
+        },
+        {
+            "title": "Aeronaves",
+            "url": "/aeronave",
+            "icon": "rocket"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "viajes": [{
+            "id": "viaje1",
+            "ubicacion": "Escape Room",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje2",
+            "ubicacion": "Rust Creek",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje3",
+            "ubicacion": "American Hangman",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje4",
+            "ubicacion": "The Upside",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje5",
+            "ubicacion": "Replicas",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje6",
+            "ubicacion": "After Darkness",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje7",
+            "ubicacion": "Glass",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje8",
+            "ubicacion": "Close",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje9",
+            "ubicacion": "The Final Wish",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje10",
+            "ubicacion": "Serenity",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje11",
+            "ubicacion": "Miss Bala",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        },
+        {
+            "id": "viaje12",
+            "ubicacion": "Velvet Buzzsaw",
+            "llegada": "01/01/2021",
+            "salida": "01/01/2021"
+        }
+    ],
+    "columns": [
+        { "name": "Id" },
+        { "name": "Ubicacion" },
+        { "name": "Llegada" },
+        { "name": "Salida" }
+    ]
+}

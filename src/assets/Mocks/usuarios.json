@@ -1,0 +1,32 @@
+{
+    "usuarios": [{
+            "nombre": "Juan Jose Perez",
+            "rol": "Administrador"
+        },
+        {
+            "nombre": "Pedro Pablo Perez",
+            "rol": "Consulta"
+        },
+        {
+            "nombre": "Juan Jose Perez 1",
+            "rol": "Administrador"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 1",
+            "rol": "Consulta"
+        },
+        {
+            "nombre": "Juan Jose Perez 2",
+            "rol": "Administrador"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 2",
+            "rol": "Consulta"
+        }
+
+    ],
+    "columns": [
+        { "name": "Nombre" },
+        { "name": "Rol" }
+    ]
+}

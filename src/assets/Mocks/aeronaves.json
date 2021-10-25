@@ -1,0 +1,39 @@
+{
+    "aeronaves": [{
+            "modelo": "aeronave",
+            "serial": "agsdgfdgfdhdfg1231312",
+            "proveedor": "proveedor 1"
+        },
+        {
+            "modelo": "aeronave",
+            "serial": "123fht",
+            "proveedor": "proveedor 1"
+        },
+        {
+            "modelo": "aeronave 1",
+            "serial": "agsdgfdgfdhdfg1231312",
+            "proveedor": "proveedor 2"
+        },
+        {
+            "modelo": "aeronave 1",
+            "serial": "123fht",
+            "proveedor": "proveedor 3"
+        },
+        {
+            "modelo": "aeronave 2",
+            "serial": "agsdgfdgfdhdfg1231312",
+            "proveedor": "proveedor 4"
+        },
+        {
+            "modelo": "aeronave 2",
+            "serial": "123fht",
+            "proveedor": "proveedor 6"
+        }
+
+    ],
+    "columns": [
+        { "name": "Modelo" },
+        { "name": "Serial" },
+        { "name": "Proveedor" }
+    ]
+}

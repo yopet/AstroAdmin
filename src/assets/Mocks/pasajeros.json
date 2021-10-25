@@ -1,0 +1,25 @@
+{
+    "pasajeros": [{
+            "nombre": "Juan Jose Perez"
+        },
+        {
+            "nombre": "Pedro Pablo Perez"
+        },
+        {
+            "nombre": "Juan Jose Perez 1"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 1"
+        },
+        {
+            "nombre": "Juan Jose Perez 2"
+        },
+        {
+            "nombre": "Pedro Pablo Perez 2"
+        }
+
+    ],
+    "columns": [
+        { "name": "Nombre" }
+    ]
+}
